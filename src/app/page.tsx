@@ -128,7 +128,9 @@ export default function Page() {
           <h1 className="text-6xl font-bold mb-4">
             CYBER<span className="text-red-500">RENE</span>
           </h1>
-          <p className="text-sm mb-4">"WHERE INNOVATION MEETS EXCELLENCE"</p>
+          <p className="text-sm mb-4">
+            &#34;WHERE INNOVATION MEETS EXCELLENCE&#34;
+          </p>
           <button className="px-6 py-2 text-sm border border-white rounded">
             EXPLORE
           </button>
@@ -171,10 +173,11 @@ export default function Page() {
               <p className="text-sm mb-2">Innovation for Community Impact</p>
               <p className="text-xs mb-4">
                 Join our annual hackathon where teams compete to develop
-                innovative solutions for local community challenges. This year's
-                focus areas include education technology, healthcare solutions,
-                and environmental sustainability. Work with mentors from leading
-                tech companies and showcase your ideas to industry experts.
+                innovative solutions for local community challenges. This
+                year&#39;s focus areas include education technology, healthcare
+                solutions, and environmental sustainability. Work with mentors
+                from leading tech companies and showcase your ideas to industry
+                experts.
               </p>
               <p className="text-xs text-gray-400">
                 Date: 15th to 17th November 2024
@@ -222,9 +225,9 @@ export default function Page() {
                 <li>• Career guidance and internship opportunities</li>
               </ul>
               <p className="text-sm">
-                Whether you're a complete beginner or an experienced developer,
-                TechVerse provides the perfect environment to enhance your
-                skills and build your tech career.
+                Whether you&#39;re a complete beginner or an experienced
+                developer, TechVerse provides the perfect environment to enhance
+                your skills and build your tech career.
               </p>
             </div>
             <form
